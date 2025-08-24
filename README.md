@@ -1,4 +1,4 @@
-💳 Kredi Kartı Harcamaları Veri Analizi
+## 💳 Kredi Kartı Harcamaları Veri Analizi
 
 Bu proje, kredi kartı kullanıcılarının harcama verilerini analiz ederek kullanıcı davranışlarına dair anlamlı çıkarımlar elde etmek amacıyla geliştirilmiştir.
 
@@ -33,7 +33,7 @@ transactions.csv - Kredi kartı işlem detayları
 Harcama miktarları, tarih/saat, şehir bilgileri
 Davranışsal analiz için işlem verileri
 
-## 2 veri seti birleştirildi
+// 2 veri seti birleştirildi
 
 ## 🔍 Detaylı Analiz Sonuçları
 

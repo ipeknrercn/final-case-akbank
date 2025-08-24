@@ -85,17 +85,17 @@ Bu proje, kullanıcıların kredi kartı harcamalarını analiz etmek için Powe
 Veri setleri kullanılarak şehir, saat, cinsiyet ve gelir grubuna göre harcama dağılımları incelenmiştir.
 
 🔧 Kullanılan Teknolojiler
-Power BI
+-Power BI
 
 ## Özellikler
-- Top 10 şehre göre harcama analizi
+## Top 10 şehre göre harcama analizi
 <img width="756" height="570" alt="image" src="https://github.com/user-attachments/assets/06fa034f-1bc2-465e-a14e-6d6c7b2761f5" />
 
-- Harcamaların saate göre dağılımı
-- <img width="958" height="538" alt="image" src="https://github.com/user-attachments/assets/c0dde0f0-aafb-4130-b8cb-ffa678bb3e1e" />
+## Harcamaların saate göre dağılımı
+<img width="958" height="538" alt="image" src="https://github.com/user-attachments/assets/c0dde0f0-aafb-4130-b8cb-ffa678bb3e1e" />
 
-- Harcamaların cinsiyete göre dağılımı
-- <img width="847" height="536" alt="image" src="https://github.com/user-attachments/assets/2e9d39c3-3945-48fd-af8e-c60a61610a3c" />
+## Harcamaların cinsiyete göre dağılımı
+<img width="847" height="536" alt="image" src="https://github.com/user-attachments/assets/2e9d39c3-3945-48fd-af8e-c60a61610a3c" />
 
-- Harcamaların gelir grubuna göre dağılımı
-- <img width="898" height="541" alt="image" src="https://github.com/user-attachments/assets/18456435-4932-44e8-95a8-fd8772216011" />
+## Harcamaların gelir grubuna göre dağılımı
+<img width="898" height="541" alt="image" src="https://github.com/user-attachments/assets/18456435-4932-44e8-95a8-fd8772216011" />

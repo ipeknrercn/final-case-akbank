@@ -49,7 +49,7 @@ for file in uploaded_files:
 
 # Eğer otomatik tanıma çalışmazsa manuel yükleme
 if users is None or transactions is None:
-    print("\n⚠️ Otomatik tanıma başarısız! Manuel yükleme...")
+    print("\n⚠ Otomatik tanıma başarısız! Manuel yükleme...")
     print("Dosya isimlerini kontrol edelim:")
 
     for i, file in enumerate(uploaded_files):
@@ -153,11 +153,11 @@ if len(merge_candidates) > 0:
     print(f"\n İlk 3 satır:")
     print(merged_data.head(3))
 
-    print(f"\n🎉 VERİ BAŞARIYLA BİRLEŞTİRİLDİ!")
+    print(f"\n VERİ BAŞARIYLA BİRLEŞTİRİLDİ!")
     print(" Grafik çizmeye hazırız!")
 
 else:
-    print("\n⚠️ Otomatik birleştirme kolonu bulunamadı!")
+    print("\n Otomatik birleştirme kolonu bulunamadı!")
     print("Manuel olarak kolon seçmen gerekiyor.")
     print(f"Ortak kolonlar: {list(common_cols)}")
 
@@ -649,7 +649,7 @@ else:
 
     try:
         # Gelir kolonundaki $ işaretini temizle
-        print(f"\n🧹 Gelir verisi temizleniyor...")
+        print(f"\n Gelir verisi temizleniyor...")
         merged_data['Income_Numeric'] = merged_data[income_col].astype(str).str.replace('$', '').str.replace(',', '')
         merged_data['Income_Numeric'] = pd.to_numeric(merged_data['Income_Numeric'], errors='coerce')
 
@@ -676,7 +676,7 @@ else:
             # NaN değerleri temizle
             user_summary = user_summary.dropna()
 
-            print(f"✅ {len(user_summary)} kullanıcı için veri hazırlandı")
+            print(f" {len(user_summary)} kullanıcı için veri hazırlandı")
 
             if len(user_summary) > 0:
                 # Scatter plot çiz

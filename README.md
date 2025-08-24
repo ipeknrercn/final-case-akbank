@@ -54,7 +54,7 @@ Bar chart ile görselleştirme
 Zirve saatlerin ve düşük aktivite dönemlerinin tespiti
 Zaman dilimi bazında (sabah, öğle, akşam, gece) karşılaştırma
 
-<img width="1028" height="643" alt="image" src="https://github.com/user-attachments/assets/40f018bd-de7b-4b24-93e3-5f131c5446b0" />
+<img width="988" height="487" alt="image" src="https://github.com/user-attachments/assets/545ee7fb-bbc7-4807-aae5-a198ab7957bf" />
 
 
 ## 3. 👥 Demografik Analiz - Cinsiyete Göre Harcama Karşılaştırması
